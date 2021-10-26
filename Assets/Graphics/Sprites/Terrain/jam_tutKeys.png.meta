@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: 15ac8193440e2614f97be8b454d2b143
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8614362689094440983
+    second: jam_tutKeys_0
+  - first:
+      213: -2820463667248218240
+    second: jam_tutKeys_1
+  - first:
+      213: -9143865784953237236
+    second: jam_tutKeys_2
+  - first:
+      213: -533693790785872251
+    second: jam_tutKeys_3
+  - first:
+      213: -7067516887464102146
+    second: jam_tutKeys_4
+  - first:
+      213: -5414149193073862552
+    second: jam_tutKeys_5
+  - first:
+      213: 2050779165353849541
+    second: jam_tutKeys_6
+  - first:
+      213: 7988574047648049946
+    second: jam_tutKeys_7
+  - first:
+      213: -5402102895990175044
+    second: jam_tutKeys_8
+  - first:
+      213: 5559530575208526574
+    second: jam_tutKeys_9
+  - first:
+      213: -8053182155184335231
+    second: jam_tutKeys_10
+  - first:
+      213: 4156262780563291786
+    second: jam_tutKeys_11
+  - first:
+      213: 9003920396042579452
+    second: jam_tutKeys_12
+  - first:
+      213: -6396056286096414829
+    second: jam_tutKeys_13
+  - first:
+      213: -7914520849249303108
+    second: jam_tutKeys_14
+  - first:
+      213: 748800164826158296
+    second: jam_tutKeys_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jam_tutKeys_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7185ad1993d5c8770800000000000000
+      internalID: 8614362689094440983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f36c3fc33bbd8d0800000000000000
+      internalID: -2820463667248218240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01930ec3867a1180800000000000000
+      internalID: -9143865784953237236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 2}
+        - {x: 0, y: 2}
+        - {x: 0, y: 2}
+        - {x: 0, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e506d2350f798f0800000000000000
+      internalID: -533693790785872251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6b0ae06d22bed90800000000000000
+      internalID: -7067516887464102146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8685dd98ef31dd4b0800000000000000
+      internalID: -5414149193073862552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 2}
+        - {x: 1, y: 2}
+        - {x: 1, y: 2}
+        - {x: 1, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c230bf09c4d57c10800000000000000
+      internalID: 2050779165353849541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 1}
+        - {x: 1, y: 1}
+        - {x: 1, y: 1}
+        - {x: 1, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b67f365cd1dde60800000000000000
+      internalID: 7988574047648049946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba8564a900e705b0800000000000000
+      internalID: -5402102895990175044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 1}
+        - {x: -1, y: 1}
+        - {x: -1, y: 1}
+        - {x: -1, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee23a3d3a9b672d40800000000000000
+      internalID: 5559530575208526574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18619b85f795d3090800000000000000
+      internalID: -8053182155184335231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ef6a46af20ea930800000000000000
+      internalID: 4156262780563291786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 2}
+        - {x: 0, y: 2}
+        - {x: 0, y: 2}
+        - {x: 0, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd230835e954fc70800000000000000
+      internalID: 9003920396042579452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 2}
+        - {x: 0, y: 2}
+        - {x: 0, y: 2}
+        - {x: 0, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397a1df02b4ac37a0800000000000000
+      internalID: -6396056286096414829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb582157839f92290800000000000000
+      internalID: -7914520849249303108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_tutKeys_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 1}
+        - {x: -1, y: 1}
+        - {x: -1, y: 1}
+        - {x: -1, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4973858c5446a00800000000000000
+      internalID: 748800164826158296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

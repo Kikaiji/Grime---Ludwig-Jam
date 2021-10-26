@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grapple
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Rope
+  - Player
+  - Ground
+  - Grapple
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 690657045
+    locked: 0
+  - name: Ground
+    uniqueID: 4248553287
+    locked: 0
+  - name: Player
+    uniqueID: 1457309525
+    locked: 0
+  - name: ForeGround
+    uniqueID: 4210747315
+    locked: 0
+  - name: UI
+    uniqueID: 814680071
+    locked: 0

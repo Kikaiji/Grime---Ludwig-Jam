@@ -1,0 +1,1468 @@
+fileFormatVersion: 2
+guid: 7e435cc19d5c48a4a8be016af55ebb8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2740705373544093185
+    second: jam_sewerTiles_0
+  - first:
+      213: -8740616711986313374
+    second: jam_sewerTiles_1
+  - first:
+      213: -1687219057849212555
+    second: jam_sewerTiles_2
+  - first:
+      213: 632516558155166996
+    second: jam_sewerTiles_3
+  - first:
+      213: 8861013256697344266
+    second: jam_sewerTiles_4
+  - first:
+      213: 6416023190540471862
+    second: jam_sewerTiles_5
+  - first:
+      213: -2891804904470492452
+    second: jam_sewerTiles_6
+  - first:
+      213: -3467606490014104759
+    second: jam_sewerTiles_7
+  - first:
+      213: 5209294420517211941
+    second: jam_sewerTiles_8
+  - first:
+      213: -6247525809020487578
+    second: jam_sewerTiles_9
+  - first:
+      213: 2727049590036504556
+    second: jam_sewerTiles_10
+  - first:
+      213: -3846312075604630727
+    second: jam_sewerTiles_11
+  - first:
+      213: -6859576703528677131
+    second: jam_sewerTiles_12
+  - first:
+      213: -3440614921376398734
+    second: jam_sewerTiles_13
+  - first:
+      213: -2639646532874158588
+    second: jam_sewerTiles_14
+  - first:
+      213: -2409296139243620934
+    second: jam_sewerTiles_15
+  - first:
+      213: -3556915117371913268
+    second: jam_sewerTiles_16
+  - first:
+      213: -4017517160177145363
+    second: jam_sewerTiles_17
+  - first:
+      213: 2854127122624408785
+    second: jam_sewerTiles_18
+  - first:
+      213: 3264312022414135037
+    second: jam_sewerTiles_19
+  - first:
+      213: 6582842333761294280
+    second: jam_sewerTiles_20
+  - first:
+      213: 3519047266728449348
+    second: jam_sewerTiles_21
+  - first:
+      213: 5334033986848508468
+    second: jam_sewerTiles_22
+  - first:
+      213: 5221164512508476889
+    second: jam_sewerTiles_23
+  - first:
+      213: -2890123662062567260
+    second: jam_sewerTiles_24
+  - first:
+      213: 817022656008022080
+    second: jam_sewerTiles_25
+  - first:
+      213: -9222928398608792060
+    second: jam_sewerTiles_26
+  - first:
+      213: 5472796858474849146
+    second: jam_sewerTiles_27
+  - first:
+      213: -1309816430206531530
+    second: jam_sewerTiles_28
+  - first:
+      213: 1553097771010878063
+    second: jam_sewerTiles_29
+  - first:
+      213: 2538824122744880991
+    second: jam_sewerTiles_30
+  - first:
+      213: -4894901873616127111
+    second: jam_sewerTiles_31
+  - first:
+      213: 975301914299971530
+    second: jam_sewerTiles_32
+  - first:
+      213: -4275009822765038509
+    second: jam_sewerTiles_33
+  - first:
+      213: -431960543539977936
+    second: jam_sewerTiles_34
+  - first:
+      213: 3220779483763265394
+    second: jam_sewerTiles_35
+  - first:
+      213: 2300040250264263182
+    second: jam_sewerTiles_36
+  - first:
+      213: -904154949457320103
+    second: jam_sewerTiles_37
+  - first:
+      213: -1831303313518826154
+    second: jam_sewerTiles_38
+  - first:
+      213: 3885774689666421200
+    second: jam_sewerTiles_41
+  - first:
+      213: 285214221448730164
+    second: jam_sewerTiles_42
+  - first:
+      213: 6689623168091739213
+    second: jam_sewerTiles_43
+  - first:
+      213: 2477167638155595551
+    second: jam_sewerTiles_44
+  - first:
+      213: 1891352058285106908
+    second: jam_sewerTiles_45
+  - first:
+      213: 8510409169203517774
+    second: jam_sewerTiles_48
+  - first:
+      213: 5459381239555598405
+    second: jam_sewerTiles_49
+  - first:
+      213: 3686984704657594752
+    second: jam_sewerTiles_50
+  - first:
+      213: -4538780670739312399
+    second: jam_sewerTiles_51
+  - first:
+      213: 956528313729062927
+    second: jam_sewerTiles_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jam_sewerTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff966efcbfe07f9d0800000000000000
+      internalID: -2740705373544093185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2678634096713b680800000000000000
+      internalID: -8740616711986313374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571e0a6c43bc598e0800000000000000
+      internalID: -1687219057849212555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415346b557627c800800000000000000
+      internalID: 632516558155166996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: 7}
+        - {x: 5, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01f87bfb94a8fa70800000000000000
+      internalID: 8861013256697344266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 6}
+        - {x: -8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e45d6291b4a0950800000000000000
+      internalID: 6416023190540471862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 6}
+        - {x: -8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdacd45c2ce3ed7d0800000000000000
+      internalID: -2891804904470492452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 7}
+        - {x: -8, y: -8}
+        - {x: -5, y: -8}
+        - {x: -5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943ceddf44690efc0800000000000000
+      internalID: -3467606490014104759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f4a59eca12b4840800000000000000
+      internalID: 5209294420517211941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668bf34a0645c49a0800000000000000
+      internalID: -6247525809020487578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef1003572d68d520800000000000000
+      internalID: 2727049590036504556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9336a4ebb872f9ac0800000000000000
+      internalID: -3846312075604630727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: 8}
+        - {x: 5, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0d0ace453edc0a0800000000000000
+      internalID: -6859576703528677131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272837a45fa7040d0800000000000000
+      internalID: -3440614921376398734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eb17bb6771e5bd0800000000000000
+      internalID: -2639646532874158588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -7}
+        - {x: -5, y: -7}
+        - {x: -5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5f9a52de5709ed0800000000000000
+      internalID: -2409296139243620934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb84dccb8c43aec0800000000000000
+      internalID: -3556915117371913268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -4}
+        - {x: -5, y: -4}
+        - {x: -5, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9ea94bd69ee38c0800000000000000
+      internalID: -4017517160177145363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 5, y: -8}
+        - {x: 5, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dce5d70f75eb9720800000000000000
+      internalID: 2854127122624408785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: 8}
+        - {x: 5, y: -1}
+        - {x: 6, y: -1}
+        - {x: 6, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe08044d7a2d4d20800000000000000
+      internalID: 3264312022414135037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfce34a934fa5b50800000000000000
+      internalID: 6582842333761294280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: -6, y: -3}
+        - {x: -6, y: -1}
+        - {x: -5, y: -1}
+        - {x: -5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445982928da26d030800000000000000
+      internalID: 3519047266728449348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: 5}
+        - {x: 8, y: 5}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a47fd66ab460a40800000000000000
+      internalID: 5334033986848508468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -5, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd71f1167d457840800000000000000
+      internalID: 5221164512508476889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -8}
+        - {x: 5, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a04fc587d734e7d0800000000000000
+      internalID: -2890123662062567260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048edc0e6c5a65b00800000000000000
+      internalID: 817022656008022080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4068f049c73910080800000000000000
+      internalID: -9222928398608792060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7364452fb743fb40800000000000000
+      internalID: 5472796858474849146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638c19c75e892dde0800000000000000
+      internalID: -1309816430206531530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6aed8ea136bd8510800000000000000
+      internalID: 1553097771010878063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fb66f9617bb3320800000000000000
+      internalID: 2538824122744880991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b77b42ea0d11cb0800000000000000
+      internalID: -4894901873616127111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7bb967ce7f88d00800000000000000
+      internalID: 975301914299971530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c8c6573d1ca4c0800000000000000
+      internalID: -4275009822765038509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031a05d9c2e510af0800000000000000
+      internalID: -431960543539977936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -8}
+        - {x: -5, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f439540e182bc20800000000000000
+      internalID: 3220779483763265394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -8}
+        - {x: 5, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a1a16eb626bef10800000000000000
+      internalID: 2300040250264263182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: -6, y: -3}
+        - {x: -6, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9576fa72ddbc373f0800000000000000
+      internalID: -904154949457320103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -6}
+        - {x: 6, y: -6}
+        - {x: 6, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65de6b9c657e596e0800000000000000
+      internalID: -1831303313518826154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 1}
+        - {x: -5, y: 3}
+        - {x: -7, y: 6}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: 6}
+        - {x: 5, y: 3}
+        - {x: 2, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d155c61e7b0de530800000000000000
+      internalID: 3885774689666421200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -7}
+        - {x: -8, y: 7}
+        - {x: -6, y: 7}
+        - {x: -3, y: 5}
+        - {x: -1, y: 2}
+        - {x: -1, y: -2}
+        - {x: -3, y: -5}
+        - {x: -6, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4365752c2d845f300800000000000000
+      internalID: 285214221448730164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -7}
+        - {x: -8, y: 7}
+        - {x: -6, y: 7}
+        - {x: -3, y: 5}
+        - {x: -1, y: 2}
+        - {x: -1, y: -2}
+        - {x: -3, y: -5}
+        - {x: -6, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d45704d056dc50800000000000000
+      internalID: 6689623168091739213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -8}
+        - {x: -7, y: -6}
+        - {x: -5, y: -3}
+        - {x: -2, y: -1}
+        - {x: 2, y: -1}
+        - {x: 5, y: -3}
+        - {x: 7, y: -6}
+        - {x: 7, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f8b51a7daa06220800000000000000
+      internalID: 2477167638155595551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -7}
+        - {x: -5, y: -5}
+        - {x: -7, y: 0}
+        - {x: -5, y: 5}
+        - {x: 0, y: 7}
+        - {x: 5, y: 5}
+        - {x: 7, y: 0}
+        - {x: 5, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6a94b1dae6f3a10800000000000000
+      internalID: 1891352058285106908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: 3}
+        - {x: 2, y: 1}
+        - {x: -2, y: 1}
+        - {x: -5, y: 3}
+        - {x: -7, y: 6}
+        - {x: -7, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e495a9f9c0c0b1670800000000000000
+      internalID: 8510409169203517774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -7}
+        - {x: 3, y: -5}
+        - {x: 1, y: -2}
+        - {x: 1, y: 2}
+        - {x: 3, y: 5}
+        - {x: 6, y: 7}
+        - {x: 8, y: 7}
+        - {x: 8, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548a425ff4e93cb40800000000000000
+      internalID: 5459381239555598405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -7}
+        - {x: 3, y: -5}
+        - {x: 1, y: -2}
+        - {x: 1, y: 2}
+        - {x: 3, y: 5}
+        - {x: 6, y: 7}
+        - {x: 8, y: 7}
+        - {x: 8, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0891a6ded0dca2330800000000000000
+      internalID: 3686984704657594752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -8}
+        - {x: -7, y: -6}
+        - {x: -5, y: -3}
+        - {x: -2, y: -1}
+        - {x: 2, y: -1}
+        - {x: 5, y: -3}
+        - {x: 7, y: -6}
+        - {x: 7, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f09c2707030301c0800000000000000
+      internalID: -4538780670739312399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jam_sewerTiles_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -7}
+        - {x: -5, y: -5}
+        - {x: -7, y: 0}
+        - {x: -5, y: 5}
+        - {x: 0, y: 7}
+        - {x: 5, y: 5}
+        - {x: 7, y: 0}
+        - {x: 5, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f089c65fe65464d00800000000000000
+      internalID: 956528313729062927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
